@@ -1,0 +1,9 @@
+[package]
+name = "hello_world"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+cpal = "0.16"
+ctrlc = "3.4.7"
+hound = "3.4.0"
